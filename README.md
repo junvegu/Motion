@@ -1,4 +1,4 @@
-![Motion Logo](http://www.cosmicmind.com/motion/logo/motion_logo.png)
+### **Important: This fork of CosmicMind Motion Library sets the iOS deployment target to 11.0 to allow build the library with Xcode 15.**
 
 # Motion
 

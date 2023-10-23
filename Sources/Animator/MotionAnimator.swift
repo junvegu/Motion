@@ -25,7 +25,7 @@
 
 import UIKit
 
-public protocol MotionAnimator: class {
+public protocol MotionAnimator: AnyObject {
   /// A reference to Motion.
   var motion: MotionTransition! { get set }
   

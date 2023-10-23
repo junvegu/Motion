@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "96C98DD01E424AB000B22906"
-               BuildableName = "Motion.framework"
-               BlueprintName = "Motion"
-               ReferencedContainer = "container:Motion.xcodeproj">
+               BuildableName = "LyraMotion.framework"
+               BlueprintName = "LyraMotion"
+               ReferencedContainer = "container:LyraMotion.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -44,9 +44,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "96C98DD01E424AB000B22906"
-            BuildableName = "Motion.framework"
-            BlueprintName = "Motion"
-            ReferencedContainer = "container:Motion.xcodeproj">
+            BuildableName = "LyraMotion.framework"
+            BlueprintName = "LyraMotion"
+            ReferencedContainer = "container:LyraMotion.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </LaunchAction>
@@ -60,9 +60,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "96C98DD01E424AB000B22906"
-            BuildableName = "Motion.framework"
-            BlueprintName = "Motion"
-            ReferencedContainer = "container:Motion.xcodeproj">
+            BuildableName = "LyraMotion.framework"
+            BlueprintName = "LyraMotion"
+            ReferencedContainer = "container:LyraMotion.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>

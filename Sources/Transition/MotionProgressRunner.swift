@@ -25,7 +25,7 @@
 
 import UIKit
 
-protocol MotionProgressRunnerDelegate: class {
+protocol MotionProgressRunnerDelegate: AnyObject {
   func update(progress: TimeInterval)
   func complete(isFinishing: Bool)
 }

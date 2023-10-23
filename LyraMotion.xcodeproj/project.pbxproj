@@ -42,7 +42,7 @@
 		96E409701F24F7370015A2B5 /* Motion+UIKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96E409491F24F7370015A2B5 /* Motion+UIKit.swift */; };
 		96E409711F24F7370015A2B5 /* Motion+UIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96E4094A1F24F7370015A2B5 /* Motion+UIView.swift */; };
 		96E409721F24F7370015A2B5 /* Motion+UIViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96E4094B1F24F7370015A2B5 /* Motion+UIViewController.swift */; };
-		96E409741F24F7370015A2B5 /* Motion.h in Headers */ = {isa = PBXBuildFile; fileRef = 96E4094F1F24F7370015A2B5 /* Motion.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		96E409741F24F7370015A2B5 /* LyraMotion.h in Headers */ = {isa = PBXBuildFile; fileRef = 96E4094F1F24F7370015A2B5 /* LyraMotion.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		96E409761F24F7370015A2B5 /* MotionAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96E409511F24F7370015A2B5 /* MotionAnimation.swift */; };
 		96E409771F24F7370015A2B5 /* MotionAnimationState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96E409521F24F7370015A2B5 /* MotionAnimationState.swift */; };
 		96E409781F24F7370015A2B5 /* MotionCAAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96E409531F24F7370015A2B5 /* MotionCAAnimation.swift */; };
@@ -107,7 +107,7 @@
 		965FE9921FE43DE10098BDD0 /* MotionTransition+UINavigationControllerDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MotionTransition+UINavigationControllerDelegate.swift"; sourceTree = "<group>"; };
 		965FE9A01FE43EF80098BDD0 /* MotionTransition+CustomTransition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MotionTransition+CustomTransition.swift"; sourceTree = "<group>"; };
 		965FE9A21FE4407D0098BDD0 /* MotionTransition+Interactive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MotionTransition+Interactive.swift"; sourceTree = "<group>"; };
-		96C98DD11E424AB000B22906 /* Motion.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Motion.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		96C98DD11E424AB000B22906 /* LyraMotion.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = LyraMotion.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		96E4093D1F24F7370015A2B5 /* MotionAnimator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MotionAnimator.swift; sourceTree = "<group>"; };
 		96E4093E1F24F7370015A2B5 /* MotionAnimatorViewContext.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MotionAnimatorViewContext.swift; sourceTree = "<group>"; };
 		96E4093F1F24F7370015A2B5 /* MotionCoreAnimationViewContext.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MotionCoreAnimationViewContext.swift; sourceTree = "<group>"; };
@@ -120,7 +120,7 @@
 		96E409491F24F7370015A2B5 /* Motion+UIKit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Motion+UIKit.swift"; sourceTree = "<group>"; };
 		96E4094A1F24F7370015A2B5 /* Motion+UIView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Motion+UIView.swift"; sourceTree = "<group>"; };
 		96E4094B1F24F7370015A2B5 /* Motion+UIViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Motion+UIViewController.swift"; sourceTree = "<group>"; };
-		96E4094F1F24F7370015A2B5 /* Motion.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Motion.h; sourceTree = "<group>"; };
+		96E4094F1F24F7370015A2B5 /* LyraMotion.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LyraMotion.h; sourceTree = "<group>"; };
 		96E409511F24F7370015A2B5 /* MotionAnimation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MotionAnimation.swift; sourceTree = "<group>"; };
 		96E409521F24F7370015A2B5 /* MotionAnimationState.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MotionAnimationState.swift; sourceTree = "<group>"; };
 		96E409531F24F7370015A2B5 /* MotionCAAnimation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MotionCAAnimation.swift; sourceTree = "<group>"; };
@@ -176,7 +176,7 @@
 		96C98DD21E424AB000B22906 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				96C98DD11E424AB000B22906 /* Motion.framework */,
+				96C98DD11E424AB000B22906 /* LyraMotion.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -186,7 +186,7 @@
 			children = (
 				96E409BB1F24FC210015A2B5 /* Info.plist */,
 				96E409BC1F24FC300015A2B5 /* LICENSE */,
-				96E4094F1F24F7370015A2B5 /* Motion.h */,
+				96E4094F1F24F7370015A2B5 /* LyraMotion.h */,
 				D4A2ECE421467454003162B4 /* Application.swift */,
 				965FE9681FDDA1F20098BDD0 /* MotionViewOrderStrategy.swift */,
 				96E409511F24F7370015A2B5 /* MotionAnimation.swift */,
@@ -286,7 +286,7 @@
 				96E409AB1F24F7570015A2B5 /* MotionPreprocessor.swift in Headers */,
 				96E409AC1F24F7570015A2B5 /* SourcePreprocessor.swift in Headers */,
 				96E409AD1F24F7570015A2B5 /* TransitionPreprocessor.swift in Headers */,
-				96E409741F24F7370015A2B5 /* Motion.h in Headers */,
+				96E409741F24F7370015A2B5 /* LyraMotion.h in Headers */,
 				965FE9811FE304E70098BDD0 /* MotionViewOrderStrategy.swift in Headers */,
 				965FE9821FE304E70098BDD0 /* MotionProgressRunner.swift in Headers */,
 				965FE9831FE304E70098BDD0 /* MotionCoreAnimator.swift in Headers */,
@@ -302,9 +302,9 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		96C98DD01E424AB000B22906 /* Motion */ = {
+		96C98DD01E424AB000B22906 /* LyraMotion */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 96C98DD91E424AB000B22906 /* Build configuration list for PBXNativeTarget "Motion" */;
+			buildConfigurationList = 96C98DD91E424AB000B22906 /* Build configuration list for PBXNativeTarget "LyraMotion" */;
 			buildPhases = (
 				96C98DCC1E424AB000B22906 /* Sources */,
 				96C98DCE1E424AB000B22906 /* Headers */,
@@ -313,9 +313,9 @@
 			);
 			dependencies = (
 			);
-			name = Motion;
+			name = LyraMotion;
 			productName = Motion;
-			productReference = 96C98DD11E424AB000B22906 /* Motion.framework */;
+			productReference = 96C98DD11E424AB000B22906 /* LyraMotion.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -334,7 +334,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 96C98DCB1E424AB000B22906 /* Build configuration list for PBXProject "Motion" */;
+			buildConfigurationList = 96C98DCB1E424AB000B22906 /* Build configuration list for PBXProject "LyraMotion" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -347,7 +347,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				96C98DD01E424AB000B22906 /* Motion */,
+				96C98DD01E424AB000B22906 /* LyraMotion */,
 			);
 		};
 /* End PBXProject section */
@@ -412,6 +412,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				BUILD_LIBRARY_FOR_DISTRIBUTION = YES;
 				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
@@ -458,9 +459,9 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
-				ONLY_ACTIVE_ARCH = YES;
+				ONLY_ACTIVE_ARCH = NO;
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -475,6 +476,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				BUILD_LIBRARY_FOR_DISTRIBUTION = YES;
 				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
@@ -515,7 +517,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
@@ -530,6 +532,7 @@
 		96C98DDA1E424AB000B22906 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				BUILD_LIBRARY_FOR_DISTRIBUTION = YES;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -539,11 +542,12 @@
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "$(SRCROOT)/Sources/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MARKETING_VERSION = 3.1.3;
-				PRODUCT_BUNDLE_IDENTIFIER = com.cosmicmind.Motion;
-				PRODUCT_MODULE_NAME = Motion;
-				PRODUCT_NAME = Motion;
+				PRODUCT_BUNDLE_IDENTIFIER = com.lyra.LyraMotion;
+				PRODUCT_MODULE_NAME = LyraMotion;
+				PRODUCT_NAME = LyraMotion;
 				SKIP_INSTALL = YES;
 				SWIFT_OBJC_INTERFACE_HEADER_NAME = "$(SWIFT_MODULE_NAME)-Swift.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -554,6 +558,7 @@
 		96C98DDB1E424AB000B22906 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				BUILD_LIBRARY_FOR_DISTRIBUTION = YES;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "";
 				DEFINES_MODULE = YES;
@@ -562,11 +567,12 @@
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "$(SRCROOT)/Sources/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MARKETING_VERSION = 3.1.3;
-				PRODUCT_BUNDLE_IDENTIFIER = com.cosmicmind.Motion;
-				PRODUCT_MODULE_NAME = Motion;
-				PRODUCT_NAME = Motion;
+				PRODUCT_BUNDLE_IDENTIFIER = com.lyra.LyraMotion;
+				PRODUCT_MODULE_NAME = LyraMotion;
+				PRODUCT_NAME = LyraMotion;
 				SKIP_INSTALL = YES;
 				SWIFT_OBJC_INTERFACE_HEADER_NAME = "$(SWIFT_MODULE_NAME)-Swift.h";
 				SWIFT_VERSION = 5.0;
@@ -576,7 +582,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		96C98DCB1E424AB000B22906 /* Build configuration list for PBXProject "Motion" */ = {
+		96C98DCB1E424AB000B22906 /* Build configuration list for PBXProject "LyraMotion" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				96C98DD71E424AB000B22906 /* Debug */,
@@ -585,7 +591,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		96C98DD91E424AB000B22906 /* Build configuration list for PBXNativeTarget "Motion" */ = {
+		96C98DD91E424AB000B22906 /* Build configuration list for PBXNativeTarget "LyraMotion" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				96C98DDA1E424AB000B22906 /* Debug */,
