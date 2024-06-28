@@ -18,7 +18,7 @@
 		</data>
 		<key>Headers/LyraMotion-Swift.h</key>
 		<data>
-		EvIqnkUxs9V03milwKjT/4uQDaA=
+		Un9TVUusBtK+WeGzymivRFilKpQ=
 		</data>
 		<key>Headers/LyraMotion.h</key>
 		<data>
@@ -162,51 +162,51 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		7W6UH70YkBd1uS8XEk9SoIETsmA=
+		1Z5aCxqPjV1CLSOUY2u3Vl3FcHc=
 		</data>
 		<key>Modules/LyraMotion.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		cJQy4wpXvD3CnExUUIdyfxB+7d4=
+		e16ENLOumw0DQsJwxBYRuRoimzo=
 		</data>
 		<key>Modules/LyraMotion.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		R/omR9IzIjD28YcGirkmlUHtZjI=
+		zzSFuWE5iFeg4smemt2cQC9+oQw=
 		</data>
 		<key>Modules/LyraMotion.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		3Di+j7SIZbXy0So1W6gpbQ+W/j0=
+		bYa489bZC/cQOt3C1bOteWYhvHQ=
 		</data>
 		<key>Modules/LyraMotion.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		R/omR9IzIjD28YcGirkmlUHtZjI=
+		zzSFuWE5iFeg4smemt2cQC9+oQw=
 		</data>
 		<key>Modules/LyraMotion.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		2uSpREWr5UCW2jhV4ibUwIg9CvM=
+		s0B3ET3MS+AnLdoHtpzdPtDrB5U=
 		</data>
 		<key>Modules/LyraMotion.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		cJQy4wpXvD3CnExUUIdyfxB+7d4=
+		e16ENLOumw0DQsJwxBYRuRoimzo=
 		</data>
 		<key>Modules/LyraMotion.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		SdRN221K3gefNd6NhG9n2agzSrA=
+		ybfhdGL8W1OcU5ygisD+bieP3nI=
 		</data>
 		<key>Modules/LyraMotion.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		4Uhw4hT44/Y9feWz7pQHTE0ttY4=
+		6Zs82bE7mYBS6xYVsl5Nsugy6HA=
 		</data>
 		<key>Modules/LyraMotion.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		SdRN221K3gefNd6NhG9n2agzSrA=
+		ybfhdGL8W1OcU5ygisD+bieP3nI=
 		</data>
 		<key>Modules/LyraMotion.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		6zoAE7blDlSC/ZNt72L402nEkMI=
+		ppoyRqHmaJV9D51RJJgRoMXysyQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		0p/Wx3CnbaZYj4Sgs8gXfd2I9BI=
+		8a1TzEjfEC5K7/5NwKwE4o4UlFg=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -236,7 +236,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xwbzftx8AwRftw3sWtKSY4xN6dVI98kKDg4ySGSTOoM=
+			p011Agn4TkVIffBHenhvS40rBcFXiZ6dkDwPnneBd5Q=
 			</data>
 		</dict>
 		<key>Headers/LyraMotion.h</key>
@@ -488,77 +488,77 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cgU1D0PECRhIQE5Sjz/YCfuLAkXfreX1bLtWtr12uTw=
+			duiwCN2el9P1M5vrHyk89RI2/o+6igXnoNQ7N3+j04E=
 			</data>
 		</dict>
 		<key>Modules/LyraMotion.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			C8daW5WrmKH3U5KBoRJVmVS+5yHC5D8C07sP0dAutWw=
+			49utgcqToyA+NRctbdMhAmEqxeOdFwv4WO7RdJynP6I=
 			</data>
 		</dict>
 		<key>Modules/LyraMotion.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AijlDz7+so9osUMWWYh3abk+nHUOniRx8uey31pTYwA=
+			TF9KUex1aVOqBGbkxNEWqiHqOSAGEdnlsFCG5wd9how=
 			</data>
 		</dict>
 		<key>Modules/LyraMotion.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			C8daW5WrmKH3U5KBoRJVmVS+5yHC5D8C07sP0dAutWw=
+			49utgcqToyA+NRctbdMhAmEqxeOdFwv4WO7RdJynP6I=
 			</data>
 		</dict>
 		<key>Modules/LyraMotion.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TmhqsBOhqGk9nfQPZHRKUqERSBf2QZ+p2E2XrtMMgGo=
+			mhqYAl2gesK5JTR01/JfuTeSeUJTV7tgT3h9SaxHlC4=
 			</data>
 		</dict>
 		<key>Modules/LyraMotion.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cgU1D0PECRhIQE5Sjz/YCfuLAkXfreX1bLtWtr12uTw=
+			duiwCN2el9P1M5vrHyk89RI2/o+6igXnoNQ7N3+j04E=
 			</data>
 		</dict>
 		<key>Modules/LyraMotion.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tGmEXDlkyLdCe7c2DPBzCgS1XGYi6LK13wNQcY7Jzl8=
+			Oczhe40tBJiDuwj/epQvEXQTCHTbj6vsMT6M4PMK8C0=
 			</data>
 		</dict>
 		<key>Modules/LyraMotion.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WRdcvjFY0XqygAuervPvzTJRi1PZrXTPC2wsTgkdOdY=
+			/pqL1dUj90LEFMEfZUlF/Mvnt6ZCaGwYVXUSm+qLOzU=
 			</data>
 		</dict>
 		<key>Modules/LyraMotion.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tGmEXDlkyLdCe7c2DPBzCgS1XGYi6LK13wNQcY7Jzl8=
+			Oczhe40tBJiDuwj/epQvEXQTCHTbj6vsMT6M4PMK8C0=
 			</data>
 		</dict>
 		<key>Modules/LyraMotion.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			19GJu2KlLsaTQy2+aUTvwzJX0WJti82Js2js0VWDcR4=
+			6HGVeJqNstTJJqe0MQAmR/QuuORP8EMDayJLyfuTcYM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GtSt+ebSxnnOrUyFhTMdXIt3hmIf6wMItgLQnOTzdnE=
+			nf9CoHT8MBTdd4OxtZKol09Nvu41b1iMsumhYmG4eGE=
 			</data>
 		</dict>
 	</dict>

@@ -1,7 +1,7 @@
 framework module LyraMotion {
   umbrella header "LyraMotion.h"
-
   export *
+
   module * { export * }
 }
 
